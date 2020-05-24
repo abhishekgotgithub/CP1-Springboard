@@ -3,7 +3,7 @@
 
 This project is about house price prediction.
 
-Model used for prediction
+Methods used for predictions
 
 1 Linear Regression 
 
